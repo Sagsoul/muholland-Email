@@ -1,0 +1,6 @@
+{
+  "buildCommand": "npm run build",
+  "startCommand": "npm run start",
+  "installCommand": "npm install",
+  "nodeVersion": "22.13.0"
+}
